@@ -20,3 +20,7 @@ Start a new Claude Code session and paste a link.
 - When a site refuses an anonymous download, the script retries once with your Chrome login (`--cookies-from-browser chrome`; macOS asks for Keychain access the first time). Turn that off with `SOCIAL_COOKIES=none`.
 - A 1-minute Reel or TikTok takes about 10–25 s. YouTube downloads are often throttled and take a minute or two.
 - Public posts only; downloaded files are for personal use.
+
+## License
+
+MIT, see [LICENSE](LICENSE). The licence covers this skill's code only, not the videos or photos it downloads.
